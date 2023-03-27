@@ -15,18 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NumberSorting.cpp">
+    <ClCompile Include="number_sorting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DataGenerator.cpp">
+    <ClCompile Include="data_generator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="NumberSorting.h">
+    <ClInclude Include="number_sorting.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="data_generator.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
