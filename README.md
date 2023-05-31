@@ -1,3 +1,3 @@
 # SortareParalela
 
-https://docs.google.com/document/d/1PZ--OCUm5Yv1AvBHU9r94f1mPPypLJX5QmNDLi9dkPc/edit?usp=sharing
+https://docs.google.com/document/d/152a1WdhzIX-HQmRBO9mNhJ6RyiN1P2KVt_Dh3oiWDp8/edit?usp=sharing
